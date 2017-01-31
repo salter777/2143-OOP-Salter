@@ -38,7 +38,7 @@ def remove_all():
   
   while 1 in x:
    x.remove(1)
-
+ 
 remove_all()
 print(x)
 
