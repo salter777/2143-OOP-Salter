@@ -1,4 +1,4 @@
-'''python
+'''Python
 """
 Name: Mikhail Salter
 Email: salter.mikhail@gmail.com
