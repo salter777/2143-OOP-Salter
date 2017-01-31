@@ -1,3 +1,4 @@
+'''python
 """
 Name: Mikhail Salter
 Email: salter.mikhail@gmail.com
@@ -204,3 +205,4 @@ def rm(d, x):
 rm(d, 2)
     
 print(d)
+'''
