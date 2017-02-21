@@ -1,3 +1,9 @@
+"""
+Name: Mikhail Salter
+Email: salter.mikhail@gmail.com
+Assignment: Program 1
+Due:Friday 12:00pm
+"""
 import os
 import time
 import random
